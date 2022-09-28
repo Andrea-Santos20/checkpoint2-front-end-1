@@ -325,6 +325,12 @@
   width: 100%;
 }
 
+.cabecalho {
+  position: fixed;
+  z-index: 10;
+  width: 100%;
+}
+
 /* envolve o icone de buguer */
 .menu-burguer {
   border: none;
